@@ -137,3 +137,5 @@ dmypy.json
 /Users/ag79732
 ~
 
+SQL_cred.py
+.vscode
